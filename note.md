@@ -16,3 +16,9 @@ import 구문에서 \* (애스터리스크)를 사용하지 않아도 되게 하
   }
 }
 ```
+
+## npx tsc --traceResolution
+
+`npx tsc --traceResolution`
+
+typescript가 type을 어떻게 찾느냐?
