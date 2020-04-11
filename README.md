@@ -1,1 +1,1 @@
-# ts-node-bird
+ts-node-bird
